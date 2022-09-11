@@ -1,1 +1,1 @@
-Write a script that displays all users and their home directories
+Write a script that deletes all the regular files
