@@ -1,1 +1,1 @@
-Create a script that prints hello user
+Should be the last directory the shell looks into when looking for a program
