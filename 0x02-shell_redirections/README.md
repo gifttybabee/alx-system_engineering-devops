@@ -1,1 +1,1 @@
-Write a script that prints
+Display the content of
