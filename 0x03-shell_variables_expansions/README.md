@@ -1,1 +1,1 @@
-Write a script that displays the result of BREATH to the power LOVE
+Create a script that counts the number of directories
